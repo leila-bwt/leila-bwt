@@ -18,11 +18,10 @@
   
 </picture>
 
+
 <picture>
   <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=leila-bwt&layout=compact&hide_border=true&title_color=FF1493&text_color=00FFFF&bg_color=0d1117" />
 </picture>
-
-[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=leila-bwt&bg_color=050505&color=fff700&line=cc006d&point=00fbff&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 
 <div align="center"> 
@@ -41,8 +40,9 @@
 ![GIT](https://img.shields.io/badge/-GIT-0D1117?style=for-the-badge&logo=git&logoColor=f0000&labelColor=0D1117)&nbsp;
 
 ### Studying in this moment:
-![Node.JS](https://img.shields.io/badge/-Node.JS-0D1117?style=for-the-badge&logo=node.js&labelColor=0D1117&textColor=0D1117)&nbsp;
-![SQL](https://img.shields.io/badge/-PostgreSQL-0D1117?style=for-the-badge&logo=postgresql&labelColor=0D1117)&nbsp;
+![Java](https://img.shields.io/badge/-Java-0D1117?style=for-the-badge&logo=java&labelColor=0D1117)&nbsp;
+![Spring](https://img.shields.io/badge/-Spring-0D1117?style=for-the-badge&logo=spring&labelColor=0D1117)&nbsp;
+![SQL](https://img.shields.io/badge/-MySQL-0D1117?style=for-the-badge&logo=mysql&labelColor=0D1117)&nbsp;
 
 <div align="center">
 <br><p align="centre"><b>Visitors Count</b></p>  
